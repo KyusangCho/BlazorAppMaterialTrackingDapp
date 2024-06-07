@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppMaterialTrackingDapp", "BlazorAppMaterialTrackingDapp\BlazorAppMaterialTrackingDapp\BlazorAppMaterialTrackingDapp.csproj", "{EDEFF65A-56B5-4C8A-80CF-68B228E6C877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppMaterialTrackingDapp.Client", "BlazorAppMaterialTrackingDapp\BlazorAppMaterialTrackingDapp.Client\BlazorAppMaterialTrackingDapp.Client.csproj", "{60FB4DB8-9DED-43F5-8ADB-A8E8BBD99D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDEFF65A-56B5-4C8A-80CF-68B228E6C877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEFF65A-56B5-4C8A-80CF-68B228E6C877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEFF65A-56B5-4C8A-80CF-68B228E6C877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEFF65A-56B5-4C8A-80CF-68B228E6C877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FB4DB8-9DED-43F5-8ADB-A8E8BBD99D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FB4DB8-9DED-43F5-8ADB-A8E8BBD99D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FB4DB8-9DED-43F5-8ADB-A8E8BBD99D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FB4DB8-9DED-43F5-8ADB-A8E8BBD99D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {015EA782-E6BA-4FA3-9A34-F3C81B329161}
+	EndGlobalSection
+EndGlobal
