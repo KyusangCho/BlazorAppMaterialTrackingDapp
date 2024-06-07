@@ -135,7 +135,7 @@ async function fetchAndShowGumballMachineState() {
             price = componentDetails.details.state.fields.find(
                     (f) => f.field_name === "price"
                 )?.value;
-        }
+        } 
 
 
         const numOfGumballs = componentDetails.fungible_resources.items.find(
